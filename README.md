@@ -1,4 +1,7 @@
 # selenium-ui-automation
+
+[![CodeQL](https://github.com/mazlan/selenium-ui-automation/actions/workflows/codeql-analysis.yml/badge.svg?branch=master)](https://github.com/mazlan/selenium-ui-automation/actions/workflows/codeql-analysis.yml)
+
 A simple test automation framework based on Selenium and Python using Chrome Web Driver.
 
 The tests have been written using Python 3 as the programming language using the latest version of the Selenium library for Python 3. If you are using a virtual environment setup to run Python ensure, you this library installed. Below are the steps required on how the automated tests can be configured and run for a Windows machine (setup on a Mac can vary a bit):
